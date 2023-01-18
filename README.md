@@ -6,6 +6,8 @@ To create these different project dashboard I have used various chart types, fun
 I have uploaded 3 Sales project dashboards. And all excel dashboard are in there respective folders.
 
 # Project 01:
+https://github.com/Kiran-Chinni/Excel-Project/tree/main/Project%2001
+
 ![1](https://user-images.githubusercontent.com/118211443/213173783-65023337-1e9f-4902-a1e0-5f001569fec1.JPG)
 
 # Project 02:
